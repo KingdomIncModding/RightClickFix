@@ -1,6 +1,6 @@
 # Right Click Fix
 
-**Current release: 1.0.1 — for Kingdom Inc game version 1.0.14.**
+**Current release: 1.0.2 — for Kingdom Inc game version 1.0.14.**
 
 Right click now closes any open menu in Kingdom Inc. and takes you back to your workspace.
 

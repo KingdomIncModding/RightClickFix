@@ -31,6 +31,7 @@ namespace KingdomRightClickFix
             foreach (var menu in CloseOrder)
                 if (FoundationApi.UiAccess.IsMenuOpen(menu)) { FoundationApi.UiAccess.SetMenuVisible(menu, false); return; }
         }
-        private static bool IsOverRightClickConsumer() => FoundationApi.UiAccess.PointerHasNativeRightClickAction;
+        private static bool IsOverRightClickConsumer()
+            => FoundationApi.UiAccess.PointerHasNativeRightClickAction || RightClickFixApi.AnyConsumerClaimsPointer();
     }
 }
