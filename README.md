@@ -1,5 +1,7 @@
 # Right Click Fix
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+
 **Current release: 1.0.2 — for Kingdom Inc game version 1.0.14.**
 
 Right click now closes any open menu in Kingdom Inc. and takes you back to your workspace.
@@ -45,3 +47,9 @@ Close the game and delete `BepInEx/plugins/RightClickFix/`. Saved kingdoms are n
 ## Credits
 
 Created by **Urakka**. Game artwork belongs to its respective owners.
+
+## Support
+
+If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
